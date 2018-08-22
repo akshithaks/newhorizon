@@ -1,0 +1,7 @@
+/*helloworld program*/
+#include<stdio.h>
+int main()
+{
+printf("hello new horizon college welcome to git");
+getch();
+}
